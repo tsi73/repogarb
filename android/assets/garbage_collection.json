@@ -1,0 +1,60 @@
+{
+    "garbage_collection": [
+      {
+        "id": "1",
+        "location": "Abado",
+        "sensor1_level": 30,
+        "sensor2_level": 45,
+        "collection_time": "2024-12-10T10:30:00Z",
+        "is_empty": false
+      },
+      {
+        "id": "2",
+        "location": "Megenagna",
+        "sensor1_level": 70,
+        "sensor2_level": 85,
+        "collection_time": "2024-12-11T11:00:00Z",
+        "is_empty": false
+      },
+      {
+        "id": "3",
+        "location": "AASTU",
+        "sensor1_level": 5,
+        "sensor2_level": 0,
+        "collection_time": "2024-12-12T09:00:00Z",
+        "is_empty": true
+      },
+      {
+        "id": "4",
+        "location": "Street D",
+        "sensor1_level": 20,
+        "sensor2_level": 15,
+        "collection_time": "2024-12-13T14:45:00Z",
+        "is_empty": false
+      },
+      {
+        "id": "5",
+        "location": "Gelan",
+        "sensor1_level": 0,
+        "sensor2_level": 0,
+        "collection_time": "2024-12-14T08:15:00Z",
+        "is_empty": true
+      }
+    ],
+    "collection_history": [
+      {
+        "location": "Piyasa",
+        "sensor1_level": 30,
+        "sensor2_level": 45,
+        "collection_time": "2024-12-10T10:30:00Z",
+        "is_empty": true
+      },
+      {
+        "location": "Bole",
+        "sensor1_level": 70,
+        "sensor2_level": 85,
+        "collection_time": "2024-12-11T11:00:00Z",
+        "is_empty": true
+      }
+    ]
+  }

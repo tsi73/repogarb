@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "980310707003",
+    "project_id": "fir-g-7a7d1",
+    "storage_bucket": "fir-g-7a7d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980310707003:android:b3e2b6b513e53ea3d8c51e",
+        "android_client_info": {
+          "package_name": "com.example.ietpapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjnO6hxZX1DUsTHtG0TstUUSbb5svs4oQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
